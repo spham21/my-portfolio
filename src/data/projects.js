@@ -27,7 +27,7 @@ export const projects = [
         title: "Personal Portfolio Website",
         desc:
           "Frontend development of a personal portfolio website to showcase projects and skills using React and Tailwind CSS.",
-        link: "",
+        link: "https://github.com/spham21/my-portfolio",
         demo: null,
         tags: ["React", "html", "Javascript", "Tailwind CSS"],
       },

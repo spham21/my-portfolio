@@ -1,7 +1,7 @@
 const skills = [
   "HTML5","CSS3","JavaScript","TypeScript","React",
   "Tailwind CSS","Git/GitHub","Figma","Adobe Photoshop",
-  "Adobe Illustrator","Adobe Premiere Pro",
+  "Adobe Illustrator","Adobe Indesign",
   "Python","C++","Java", "Wix", "WordPress", "Pandas"
 ];
 
