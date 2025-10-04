@@ -25,6 +25,8 @@ export default function Hero() {
           </a>
           <a
             href="/resume.pdf"
+            target = "_blank"
+            rel = "noopener noreferrer"
             className="px-5 py-3 rounded-md border border-white/15 hover:border-white/30 relative overflow-hidden"
           >
             <span className="relative z-10">My resume!</span>
@@ -49,7 +51,7 @@ export default function Hero() {
           {/* glow */}
           <div className="absolute -inset-6 rounded-full bg-gradient-to-tr from-[#ff4ecd] to-[#b26bff] blur-2xl opacity-30" />
           <img
-            src="/avatar.JPG"
+            src="/avatar.jpg"
             alt="Portrait"
             className="relative w-full h-full object-cover rounded-full border-4 border-white/10 shadow-[0_0_40px_rgba(255,78,205,0.35)]"
           />

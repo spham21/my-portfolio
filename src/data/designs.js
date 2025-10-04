@@ -44,6 +44,6 @@ export const designClients = [
           { type: "image", src: "/designs/folder/Click&Captured_card.PNG", title: "Business Card" },
          
         ],
-        href: "#https://www.instagram.com/clickncapturedbooth/?hl=en",
+        href: "https://www.instagram.com/clickncapturedbooth/?hl=en",
       },
     ];
