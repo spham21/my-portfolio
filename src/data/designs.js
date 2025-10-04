@@ -20,7 +20,7 @@ export const designClients = [
           { type: "image", src: "/designs/folder/2.png", title: "Menu Board 2" },
           { type: "image", src: "/designs/folder/3.png",  title: "Menu Board 3" },
         ],
-        href: "#https://tonyscustomtailoring.com/",
+        href: "https://tonyscustomtailoring.com/",
       },
     
       // --- Splash Pickleball  ---
@@ -33,7 +33,7 @@ export const designClients = [
           { type: "image", src: "/designs/folder/40.png",   title: "Merch Design" },
           { type: "image", src: "/designs/folder/Splash_product.png",  title: "Paddle Design" },
         ],
-        href: "#https://splashpickleballs.com/",
+        href: "https://splashpickleballs.com/",
       },
     
       // --- Clicked & Captured Photo Booth ---
