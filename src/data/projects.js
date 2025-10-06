@@ -31,4 +31,12 @@ export const projects = [
         demo: null,
         tags: ["React", "html", "Javascript", "Tailwind CSS"],
       },
+    {
+        title: "MedDoc",
+        desc:
+          "A speech to text and text to speech application that helps the ederly fill out complicated medical forms with an interactive agent.",
+        link: "https://github.com/Uplix/MedDoc",
+        demo: null,
+        tags: ["Python", "Bedrock", "Firebase", "HTML", "Tailwind CSS", "JavaScript", "Healthcare"],
+      },
   ];
