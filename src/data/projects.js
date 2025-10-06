@@ -39,4 +39,20 @@ export const projects = [
         demo: "https://youtu.be/D0tcLozEL-s",
         tags: ["Python", "Bedrock", "Firebase", "HTML", "Tailwind CSS", "JavaScript", "Healthcare"],
       },
+      {
+        title: "Data Journalism - Project Lead",
+        desc: 
+          "Led a team of 4 in a data journalism project analyzing the addiction behind online shopping. Used Python and Pandas for data analysis and visualization.",
+        link: "https://ucladatares.medium.com/predicting-purchases-the-addiction-behind-online-shopping-143005b5f978",
+        demo: null,
+        tags: ["Data Analysis", "Python", "Data Resolutions", "Data Visualization", "Pandas", "Matplotlib", "Seaborn"],
+      },
+      {
+        title: "Data Analysis of TikTok Trends",
+        desc:
+          "Analyzed TikTok trends using Python and Pandas. Created visualizations to showcase findings and published a blog style post on medium.",
+          demo: null,
+          link:"https://ucladatares.medium.com/tiktok-virality-what-makes-a-video-5abf06fe2b7d",
+          tags: ["Data Analysis", "Python", "Data Resolutions", "Data Visualization", "Pandas", "Trends", "Seaborn"],
+      }
   ];
