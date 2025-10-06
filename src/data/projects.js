@@ -20,7 +20,7 @@ export const projects = [
       desc:
         "Winter’25 NSDC project — Frontend and backend development for a web app that provides users with flight and hotel reccomendations based off of a location input.",
       link: "https://github.com/derekshi1/NSDC_winter25",
-      demo: null,
+      demo: "https://youtu.be/tOUfbOAuzjU?si=5tgIUkpEH25bDThp",
       tags: ["Data Science", "Python", "Team Project", "API"],
     },
     {
@@ -36,7 +36,7 @@ export const projects = [
         desc:
           "A speech to text and text to speech application that helps the ederly fill out complicated medical forms with an interactive agent.",
         link: "https://github.com/Uplix/MedDoc",
-        demo: null,
+        demo: "https://youtu.be/D0tcLozEL-s",
         tags: ["Python", "Bedrock", "Firebase", "HTML", "Tailwind CSS", "JavaScript", "Healthcare"],
       },
   ];
