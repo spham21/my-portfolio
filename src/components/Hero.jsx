@@ -52,7 +52,7 @@ export default function Hero() {
           <div className="absolute -inset-6 rounded-full bg-gradient-to-tr from-[#ff4ecd] to-[#b26bff] blur-2xl opacity-30" />
           <img
             src="/avatar.jpg"
-            alt="Portrait"
+            alt="Avatar"
             className="relative w-full h-full object-cover rounded-full border-4 border-white/10 shadow-[0_0_40px_rgba(255,78,205,0.35)]"
           />
         </div>
