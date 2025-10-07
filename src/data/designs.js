@@ -39,7 +39,7 @@ export const designClients = [
       // --- Clicked & Captured Photo Booth ---
       {
         client: "Clicked & Captured Photo Booth",
-        logo: "/designs/logos/clicked.png.JPG",
+        logo: "/designs/logos/clicked copy.png.jpg",
         designs: [
           { type: "image", src: "/designs/folder/Click&Captured_card.PNG", title: "Business Card" },
          
