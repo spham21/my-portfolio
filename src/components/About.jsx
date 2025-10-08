@@ -9,7 +9,7 @@ export default function About() {
 
       <div className="mt-8 grid sm:grid-cols-3 gap-5">
         <Stat number="Hobbies" label="Travel, art, cafes, photography, crafts" />
-        <Stat number="Home" label="I live around the Orange County area!" />
+        <Stat number="Education" label="University of California, Los Angeles." />
         <Stat number="Interests" label="Data science, design, graphic design, mathematics" />
       </div>
     </section>
