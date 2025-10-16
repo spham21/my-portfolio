@@ -1,4 +1,3 @@
-// src/data/designs.js
 export const designClients = [
     // --- Blossomed By Rose ---
       {
