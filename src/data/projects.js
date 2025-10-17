@@ -4,7 +4,7 @@ export const projects = [
       desc:
         "Responsive small-business site with carousel, Google Maps embed, and custom styling.",
       link: "https://github.com/spham21/Tony-s-Custom-Tailoring-Website",
-      demo: null,
+      demo: "https://tonyscustomtailoring.com/",
       tags: ["HTML", "CSS", "JavaScript"],
     },
     {
