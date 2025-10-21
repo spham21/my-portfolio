@@ -23,15 +23,6 @@ export default function Hero() {
           >
             My projects!
           </a>
-          <a
-            href="/resume.pdf"
-            target = "_blank"
-            rel = "noopener noreferrer"
-            className="px-5 py-3 rounded-md border border-white/15 hover:border-white/30 relative overflow-hidden"
-          >
-            <span className="relative z-10">My resume!</span>
-            <span className="absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-white/10 to-transparent animate-[shimmer_1.25s_linear_infinite]" />
-          </a>
         </div>
         <div className="mt-6 flex flex-wrap gap-3 text-sm text-white/60">
           {["HTML","CSS","JavaScript","TypeScript","React","Git"].map((s) => (
